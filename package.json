@@ -1,0 +1,25 @@
+{
+  "name": "ellyjs",
+  "version": "1.0.0",
+  "description": "Create and manage your DOM Elements.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikebonds/EllyJS.git"
+  },
+  "keywords": [
+    "elements"
+  ],
+  "author": "\"Mike Bonds <mikebondsdev@gmail.com> (http://mikebonds.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mikebonds/EllyJS/issues"
+  },
+  "homepage": "https://github.com/mikebonds/EllyJS#readme",
+  "dependencies": {
+    "toolpouchjs": "^1.0.0"
+  }
+}
