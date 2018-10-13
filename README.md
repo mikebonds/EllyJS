@@ -1,2 +1,2 @@
-*EllyJS*
-***Create and manage your DOM Elements.***
+## EllyJS
+#### Create and manage your DOM Elements.
